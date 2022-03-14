@@ -14,6 +14,12 @@
 
 - A problem that I faced is deleting my mockup designs before I could screencap my progress...I hope this okay to the reason I didn't include any. I would have, but i only saw the rubric after deleting them :(
 
+#### Styling the SvG
+
+- I found this part to be really fun and a refresher on CSS concepts as we haven't really done that in awhile. So it was nice to jump back in and make changes to specific parts of the SVG.
+- in the html, I included the original HTML, then changes I made using styling, and lastly the monochromatic image.
+- I also used "svgomg" to optomize my svg
+
 ### Attribution
 
 - [Controller](https://en.wikipedia.org/wiki/File:Video_game_controller_icon_designed_by_Maico_Amorim.svg) image.
